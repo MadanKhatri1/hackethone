@@ -46,7 +46,7 @@ To run this project, you need to install the required dependencies. Follow these
 3. **Install Dependencies**:
    Ensure you have Python 3.10 or later installed. Then, install the required packages:
    ```bash
-   pip install torch torchvision transformers datasets evaluate pillow numpy tensorflow huggingface_hub
+   pip install -r requirements.txt
    ```
 
 4. **Log in to Hugging Face**:
