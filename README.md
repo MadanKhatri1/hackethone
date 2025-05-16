@@ -11,8 +11,8 @@ This project fine-tunes a Vision Transformer (ViT) model to classify images rela
 - [Inference](#inference)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Project Overview
 The goal of this project is to classify images of house-related problems into one of four categories using a fine-tuned Vision Transformer (ViT) model. The model is based on the `google/vit-base-patch16-224-in21k` pre-trained model and is fine-tuned on a custom dataset. The project includes data preprocessing, model training, evaluation, and inference scripts.
 
@@ -120,6 +120,3 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
