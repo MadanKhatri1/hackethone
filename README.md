@@ -1,6 +1,3 @@
-# About the hackethone
-This project is a part of our hackathon project. Check out our final result: [Live Demo](https://3cc6-197-206-94-83.ngrok-free.app/)
-
 # House Problem Images Classification
 
 This project fine-tunes a Vision Transformer (ViT) model to classify images related to house problems into four categories: **builder**, **electrician**, **others**, and **plumber**. The model is trained on the `MadanKhatri/house_problem_images` dataset from Hugging Face and achieves high accuracy for image classification tasks.
